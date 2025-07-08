@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "objects": [
+    {
+      "name": "Health_Check_SSD",
+      "id": "HEA-CHK-SSD-001-001",
+      "ranges": [
+        "1.1.1.1",
+        "2.2.2.2",
+        "3.3.3.3"
+      ]
+    }
+  ]
+}
